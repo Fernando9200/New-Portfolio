@@ -920,6 +920,12 @@
 	opacity: 1;
 }
 
+.stack-name {
+	text-align: center;
+	font-weight: bold;
+    color: white;
+}
+
 /*
 	4. Card - Resume
 */
