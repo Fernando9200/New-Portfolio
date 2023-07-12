@@ -738,7 +738,7 @@
 }
 
 .service-items .service-item {
-	min-height: 236px;
+	/* min-height: 236px; */
 	text-align: left;
 }
 
@@ -1067,6 +1067,21 @@
 	-moz-transition: all 0.3s ease 0s;
 	-webkit-transition: all 0.3s ease 0s;
 	-o-transition: all 0.3s ease 0s;
+}
+
+.card-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: auto;
+    padding: 10px;
+    box-sizing: border-box;
+    /* border: 1px solid #ccc; */
+}
+
+.card-box .description {
+    margin-top: 10px;
 }
 
 /*
