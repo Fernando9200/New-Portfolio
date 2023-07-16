@@ -1146,11 +1146,24 @@
 	overflow: hidden;
 }
 
-#teste {
+#main-image-portfolio {
 	border-radius: 50px;
 	padding: 20px;
 	width: 600px;
 	height: 400px;
+}
+
+/* #teste { */
+	/* width: 600px; */
+	/* height: 400px; */
+/* } */
+
+#image-portfolio {
+	margin-top: -50px;
+}
+
+#p-image {
+	margin-top: -45px;
 }
 
 .box-item .image a {
