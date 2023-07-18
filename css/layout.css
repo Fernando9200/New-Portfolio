@@ -1475,8 +1475,8 @@
 
 @media (max-width: 720px) {
 	.mfp-wrap.popup-box-inline {
-		left: 44px;
-		right: 44px;
+		left: 0px;
+		right: 0px;
 		width: auto;
 		margin: 0;
 		padding: 0 10px;
