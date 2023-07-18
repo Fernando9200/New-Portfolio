@@ -14,20 +14,20 @@ function sendMail() {
   var isValid = true;
 
   if (name.trim() === "") {
-    showWarning(nameInput, "Please enter your full name");
+    showWarning(nameInput, "Please, enter your full name");
     isValid = false;
   }
 
   if (email.trim() === "") {
-    showWarning(emailInput, "Please enter your email address");
+    showWarning(emailInput, "Please, enter your e-mail address");
     isValid = false;
   } else if (!isValidEmail(email)) {
-    showWarning(emailInput, "Please enter a valid email address");
+    showWarning(emailInput, "Please, enter a valid e-mail address");
     isValid = false;
   }
 
   if (message.trim() === "") {
-    showWarning(messageInput, "Please enter your message");
+    showWarning(messageInput, "Please, enter your message");
     isValid = false;
   }
 
