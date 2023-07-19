@@ -999,6 +999,11 @@
 	font-weight: 400;
 }
 
+#company:hover {
+	color: #ee534f;
+    text-decoration: underline;
+}
+
 .resume-items .resume-item .date span {
 	padding: 0 5px;
 	display: inline-block;
