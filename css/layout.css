@@ -1166,6 +1166,10 @@
 	margin-top: -35px;
 }
 
+#p-text {
+	text-align: justify;
+}
+
 .box-item .image a {
 	display: block;
 	font-size: 0;
