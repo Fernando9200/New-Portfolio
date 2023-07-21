@@ -1170,6 +1170,8 @@
 #p-image {
 	margin-top: -35px;
 	margin-left: 25px;
+	text-align: justify;
+	margin-right: 25px;
 }
 
 #p-text {
