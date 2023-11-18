@@ -21,7 +21,7 @@
 	position: fixed;
 	top: 0;
 	left: 0;
-	width: 44px;
+	width: 55px;
 	height: 100%;
 	z-index: 113;
 	text-align: center;
@@ -93,7 +93,7 @@
 .header .top-menu ul li a .icon {
 	margin: 0;
 	display: block;
-	height: 32px;
+	height: 35px;
 	line-height: 32px;
 	font-size: 21px;
 	color: #a9a9a9;
