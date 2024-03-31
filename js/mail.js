@@ -41,7 +41,7 @@ function sendMail() {
     message: message,
   };
 
-  const serviceID = "service_8zxujjq";
+  const serviceID = "service_8zfo96f";
   const templateID = "template_6q40wgr";
 
   disableForm(); // Disable the form while sending the email

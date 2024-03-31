@@ -14,14 +14,14 @@ $(function () {
 		particlesJS('particles-bg', {
 			"particles": {
 				"number": {
-					"value": 100,
+					"value": 80,
 					"density": {
 						"enable": false,
 						"value_area": 1000
 					}
 				},
 				"color": {
-					"value": "#f9ab00"
+					"value": "#ffffff"
 				},
 				"shape": {
 					"type": "circle",
@@ -39,7 +39,7 @@ $(function () {
 					}
 				},
 				"opacity": {
-					"value": 0.7,
+					"value": 0.5,
 					"random": false,
 					"anim": {
 						"enable": false,
@@ -49,7 +49,7 @@ $(function () {
 					}
 				},
 				"size": {
-					"value": 5,
+					"value": 2,
 					"random": true,
 					"anim": {
 						"enable": false,
@@ -62,7 +62,7 @@ $(function () {
 					"enable": true,
 					"distance": 150,
 					"color": "#ffffff",
-					"opacity": 0.7,
+					"opacity": 0.4,
 					"width": 1
 				},
 				"move": {
@@ -126,14 +126,14 @@ $(function () {
 		particlesJS('particles-bg', {
 			"particles": {
 				"number": {
-					"value": 20,
+					"value": 15,
 					"density": {
 						"enable": false,
 						"value_area": 1000
 					}
 				},
 				"color": {
-					"value": "#f9ab00"
+					"value": "#ffffff"
 				},
 				"shape": {
 					"type": "circle",
@@ -151,7 +151,7 @@ $(function () {
 					}
 				},
 				"opacity": {
-					"value": 0.7,
+					"value": 0.5,
 					"random": false,
 					"anim": {
 						"enable": false,
@@ -174,7 +174,7 @@ $(function () {
 					"enable": true,
 					"distance": 150,
 					"color": "#ffffff",
-					"opacity": 0.7,
+					"opacity": 0.4,
 					"width": 1
 				},
 				"move": {
