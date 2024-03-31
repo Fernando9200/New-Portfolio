@@ -24,7 +24,7 @@ To run this website portfolio locally on your machine, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Fernando9200/New-Portfolio.git
+git clone https://github.com/Fernando9200/new-portfolio.git
 ```
 
 2. Navigate to the project directory:
